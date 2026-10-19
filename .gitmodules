@@ -1,0 +1,6 @@
+[submodule "packages/rposub01"]
+	path = packages/rposub01
+	url = git@yymzy.github.com:yymzy/rposub01.git
+[submodule "packages/rposub02"]
+	path = packages/rposub02
+	url = git@yymzy.github.com:yymzy/rposub02.git
